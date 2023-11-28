@@ -30,8 +30,8 @@ For harder tasks, the best way to use it is to look at its work and provide feed
 ![](images/writing.png)
 ![](images/testing.png)
 
-The tool consists of several agents that work together to help the user develop code. The agents are based on GPT-4.
-Note that this is based on GPT-4 which runs for a long time, so it's quite expensive in terms of OpenAI API.
+The tool consists of several agents that work together to help the user develop code. The agents are based on gpt-3.5.
+Note that this is based on gpt-3.5 which runs for a long time, so it's quite expensive in terms of OpenAI API.
 
 Here is the thing: it has a reasonable workflow by its own. It knows what to do and can do it. When it works, it works
 faster than a human.
