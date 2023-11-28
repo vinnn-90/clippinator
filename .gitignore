@@ -2,4 +2,5 @@
 venv/
 venv-poetry/
 projects/
+projects/test/
 test/
